@@ -1,0 +1,9 @@
+Building Symetric
+
+See doc/readme-qt.rst for instructions on building Symetric QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Symetric.
+
+See doc/build-*.txt for instructions on building symetricd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Symetric.
